@@ -1,4 +1,5 @@
-# Spirograph: A Node.js web application using Express Framework and EJS templating system
+# Spirograph
+## A Node.js web application using Express Framework and EJS templating system
 
 
 ### Requirements
@@ -46,9 +47,3 @@ EJS stands for Embedded JavaScript.
 1. [Mozilla: How form validation works](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/forms#Form_handling_process)
 2. [Scotch.io Express EJS Example](https://scotch.io/tutorials/use-ejs-to-template-your-node-application)
 
-
-[//]: #  online syntax highlighting by: http://markup.su/highlighter/
-[//]: #  Language: Javascript YUI       Style: IDLE
-[//]: #  Language: HTML                 Style: Mac Classic
-
-[//]: #  vim: syntax=markdown
