@@ -41,6 +41,9 @@ EJS stands for Embedded JavaScript.
 8. Make it AJAXy - Avoid full page refreshes by using AJAX to update only the output plot.
 9. Did someone say sPYrograph? - Use a Python kernel for the spirograph calculation.
 
+### Presentation Slides
+
+* [Google Slides](https://docs.google.com/presentation/d/1O7RET9ByzYPYSRBPvau72qC18v-IWb9xZWQXv_n0EcQ/edit?usp=sharing)
 
 ### Links
 1. [Mozilla: How form validation works](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/forms#Form_handling_process)
