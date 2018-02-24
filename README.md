@@ -1,4 +1,5 @@
-# Spirograph: A Node.js web application using Express Framework and EJS Templates
+# Spirograph:
+# A Node.js web application using Express Framework and EJS Templates
 
 
 ### Requirements
